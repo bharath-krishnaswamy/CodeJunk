@@ -17,7 +17,7 @@ int main()
         while (num % i == 0)
         {
             largest = i;
-            num /= i;3
+            num /= i;
         }
     }
     if(num > 2)
